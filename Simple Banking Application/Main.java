@@ -1,5 +1,5 @@
 // package com.bank;
-
+// Simple Banking Application
 import java.util.Scanner;
 
 public class Main {
